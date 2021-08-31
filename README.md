@@ -18,4 +18,6 @@ to use.
 - communities_villages, water_functioning
 ## The data can be found on this URL(https://raw.githubusercontent.com/onaio/ona-tech/master/data/water_points.json)
 
+# follow JTP.ipynb for step by step implementation of the above
+
 # - open the analysis.json file to view result in json format
