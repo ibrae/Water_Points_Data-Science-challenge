@@ -17,3 +17,5 @@ to use.
 ## We will use a water point dataset that contains many columns, the relevant ones are:
 - communities_villages, water_functioning
 ## The data can be found on this URL(https://raw.githubusercontent.com/onaio/ona-tech/master/data/water_points.json)
+
+# open the analysis.json file to view data in json format
